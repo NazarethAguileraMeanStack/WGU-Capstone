@@ -1,0 +1,145 @@
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Login.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\bin\Debug\MySql.Data.dll
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Dashboard.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.CustomerRecords.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.AppointmentRecords.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.CalendarViews.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Reports.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_Create.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_View.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_Edit.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_Create.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_Edit.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_View.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_All.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_Month.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_Week.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_AppointmentTypes.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_ConsultantSchedule.resources
+C:\Users\LabUser\source\repos\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_AppointmentStatistics.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\bin\Debug\MySql.Data.dll
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.AppointmentRecords.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_Create.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_Edit.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_View.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.CalendarViews.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_All.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_Month.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_Week.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.CustomerRecords.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_Create.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_Edit.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_View.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Dashboard.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Login.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Reports.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_AppointmentStatistics.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_AppointmentTypes.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_ConsultantSchedule.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\bin\Debug\MySql.Data.dll
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.AppointmentRecords.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_Create.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_Edit.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_View.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.CalendarViews.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_All.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_Month.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_Week.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.CustomerRecords.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_Create.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_Edit.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_View.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Dashboard.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Login.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Reports.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_AppointmentStatistics.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_AppointmentTypes.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_ConsultantSchedule.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v2\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\bin\Debug\MySql.Data.dll
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.AppointmentRecords.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_Create.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_Edit.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_View.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.CalendarViews.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_All.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_Month.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_Week.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.CustomerRecords.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_Create.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_Edit.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_View.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Dashboard.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Login.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Reports.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_AppointmentStatistics.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_AppointmentTypes.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_ConsultantSchedule.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v3 - with testing\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\bin\Debug\MySql.Data.dll
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.AppointmentRecords.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_Create.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_Edit.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Appointment_View.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.CalendarViews.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_All.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_Month.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Calendar_Week.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.CustomerRecords.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_Create.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_Edit.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Customer_View.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Dashboard.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Login.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Reports.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_AppointmentStatistics.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_AppointmentTypes.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.Report_ConsultantSchedule.resources
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\source\repos\Nazareth Aguilera Capstone Project - v4 - final draft\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
